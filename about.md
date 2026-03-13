@@ -1,8 +1,3 @@
----
-title: "About"
----
-
-
 # About TransGuide UK
 
 TransGuide UK is an independent, calm, and factual information hub created to support transgender people and allies across the United Kingdom. The aim is simple: to make reliable, accessible information easy to find and easy to understand.
@@ -30,6 +25,7 @@ TransGuide UK is designed to be:
 ## Maintenance and Updates
 
 This site is maintained independently (by [Emma Hicks](https://www.linkedin.com/in/emmahicks01)) and aims to stay up to date with major developments affecting transgender people in the UK.  
+
 While every effort is made to ensure accuracy, but policies and services can change, so users are encouraged to check linked official sources where relevant.
 
 ## How to Use This Site
