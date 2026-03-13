@@ -1,10 +1,10 @@
 # How to Legally Change Your Name in the UK
 
-Changing your name in the UK is simple and does **not** require medical approval, a diagnosis, or a Gender Recognition Certificate.  
+Changing your name in the UK is straightforward and does **not** require medical approval, a diagnosis, or a Gender Recognition Certificate.
 
-Most people use a **Deed Poll**, but a **Statutory Declaration** is also valid.  
+Most people use a **Deed Poll**, but a **Statutory Declaration** is also legally valid.
 
-Both are accepted by UK organisations.
+Both are accepted by most UK organisations, though some are more familiar with deed polls.
 
 ---
 
@@ -14,7 +14,7 @@ Both are accepted by UK organisations.
 
 ## Step 1: Choose Your New Name
 
-A deed poll is a document saying you are giving up your old name and using a new one. 
+A deed poll is a document stating that you are abandoning your old name and adopting a new one.
 
 Your new name must be:
 
@@ -42,12 +42,14 @@ A deed poll must include:
 
 ## Step 3: Sign With Witnesses
 
-Sign the deed poll in front of **two adult witnesses**.  
+Sign the deed poll in front of **two adult witnesses**.
 
-Witnesses must:
+Good practice (but not strict law):
 
-- Not be related to you  
-- Not live at the same address  
+- Witnesses should not be related to you  
+- Witnesses should not live at the same address  
+
+They must be independent adults who are not changing their name at the same time.
 
 ---
 
@@ -63,17 +65,17 @@ Use your deed poll to update your:
 
 Most organisations accept a standard (unenrolled) deed poll.
 
+A small number may ask for an enrolled deed poll, especially for international or immigration‑related processes.
+
 ---
 
 ## Step 5: Keep Copies
 
-Keep the original safe and make several copies.  
+Keep the original safe and make several copies.
+
 Some organisations may ask for a physical or certified copy.
 
 ---
-
-
-
 
 # Statutory Declaration
 
@@ -81,10 +83,9 @@ Some organisations may ask for a physical or certified copy.
 
 [Statutory Declaration Template](https://assets.publishing.service.gov.uk/media/5a7a5cafed915d71db8b1817/19049-statutory-declaration.pdf)
 
-
 ## Step 1: Write Your Statement
 
-A statutory declaration is a written statement confirming your name change.  Include:
+A statutory declaration is a written statement confirming your name change. Include:
 
 - Your full name and address  
 - A clear statement that you are changing your name  
@@ -105,11 +106,12 @@ Make it easy to read:
 
 ## Step 3: Find an Authorised Witness
 
-You must sign in front of someone legally allowed to witness, such as:
+You must sign in front of someone legally authorised to witness, such as:
 
 - A solicitor  
 - A notary public  
 - A commissioner for oaths  
+- A magistrate or Justice of the Peace  
 
 Friends and family cannot witness.
 
@@ -117,7 +119,7 @@ Friends and family cannot witness.
 
 ## Step 4: Sign in Front of the Witness
 
-Bring the **unsigned** document and ID.  
+Bring the **unsigned** document and ID.
 
 You sign first, then the witness signs and adds their details.
 
@@ -125,27 +127,29 @@ You sign first, then the witness signs and adds their details.
 
 ## Step 5: Keep and Use the Document
 
-Use the statutory declaration to update your name with organisations. 
+Use the statutory declaration to update your name with organisations.
 
 Keep the original safe and make copies if needed.
 
 ---
 
-## Important Notes
+# Important Notes
 
 - You do not need a Gender Recognition Certificate to change your name.
-
+    
 - You do not need to have medically transitioned.
- 
-- You do not need a solicitor unless you prefer one.
+    
+- You do not need a solicitor to *create* a deed poll.
+    
+- For statutory declarations, a solicitor or other authorised witness is required to administer the declaration.
 
 ---
 
 **Disclaimer:** Information on this page is accurate as of March 2026.
 
-<h2>Automatic Updates</h2>
+## Automatic Updates
 <div id="auto-updates"></div>
-<script src="/assets/js/updates.js"></script>
+<script src="assets/js/updates.js"></script>
 
 <div id="checker"></div>
-<script src="/assets/js/checker.js"></script>
+<script src="assets/js/checker.js"></script>
