@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Legal Rights"
+---
+
 # Legal Rights for Trans People in the UK
 
 Trans people in the UK are protected by several important laws.  This page provides a clear overview of your rights as of March 2026.
@@ -88,4 +93,5 @@ Most organisations accept a deed poll as proof of name change.
 
 <script src="{{ site.baseurl }}/assets/js/updates.js"></script>
 <script src="{{ site.baseurl }}/assets/js/checker.js"></script>
+
 
