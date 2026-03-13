@@ -38,7 +38,9 @@ Misinformation about transgender people is widespread.  This page provides clear
 
 <h2>Automatic Updates</h2>
 <div id="auto-updates"></div>
-<script src="assets/js/updates.js"></script>
 
 <div id="checker"></div>
-<script src="assets/js/checker.js"></script>
+
+<script src="{{ site.baseurl }}/assets/js/updates.js"></script>
+<script src="{{ site.baseurl }}/assets/js/checker.js"></script>
+
