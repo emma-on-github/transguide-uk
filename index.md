@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Homepage"
+---
+
 # TransGuide UK
 
 Welcome to **TransGuide UK**, a calm and factual resource hub designed to support transgender people and allies across the United Kingdom.
@@ -44,4 +49,5 @@ This site is maintained independently (by [Emma Hicks]( https://www.linkedin.com
 
 <script src="{{ site.baseurl }}/assets/js/updates.js"></script>
 <script src="{{ site.baseurl }}/assets/js/checker.js"></script>
+
 
