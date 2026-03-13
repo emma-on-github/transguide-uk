@@ -1,7 +1,7 @@
 // Simple "Is this still current?" checker for TransGuide UK
 
 (function () {
-  const lastUpdated = new Date("2026-03-01"); // Change this per page
+  const lastUpdated = new Date("2026-03-13"); // Change this per page
   const today = new Date();
 
   const diffDays = Math.floor((today - lastUpdated) / (1000 * 60 * 60 * 24));
