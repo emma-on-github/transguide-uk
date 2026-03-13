@@ -24,7 +24,7 @@ highlighter: rouge
 #     url: "/latest-updates"
 
 author: "TransGuide UK"
-url: "https:// emma-on-github.github.io/transguide-uk"
+url: "https://emma-on-github.github.io/transguide-uk"
 baseurl: ""
 
   - jekyll-feed
