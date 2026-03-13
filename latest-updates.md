@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Latest Updates"
+---
+
 # Latest Updates
 
 This page highlights recent developments affecting transgender rights, healthcare, and legal processes in the UK.  It is updated manually based on official announcements and trusted organisations.
@@ -48,4 +53,5 @@ For real-time updates, see:
 
 <script src="{{ site.baseurl }}/assets/js/updates.js"></script>
 <script src="{{ site.baseurl }}/assets/js/checker.js"></script>
+
 
