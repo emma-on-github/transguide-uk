@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Name Change"
+---
+
 # How to Legally Change Your Name in the UK
 
 Changing your name in the UK is straightforward and does **not** require medical approval, a diagnosis, or a Gender Recognition Certificate.
@@ -154,4 +159,5 @@ Keep the original safe and make copies if needed.
 
 <script src="{{ site.baseurl }}/assets/js/updates.js"></script>
 <script src="{{ site.baseurl }}/assets/js/checker.js"></script>
+
 
