@@ -1,10 +1,6 @@
----
-title: "Latest Updates"
----
-
 # Latest Updates
 
-This page highlights recent developments affecting transgender rights, healthcare, and legal processes in the UK. It is updated manually based on official announcements and trusted organisations.
+This page highlights recent developments affecting transgender rights, healthcare, and legal processes in the UK.  It is updated manually based on official announcements and trusted organisations.
 
 ---
 
@@ -32,10 +28,13 @@ This page highlights recent developments affecting transgender rights, healthcar
 ## How This Page Works
 
 This page provides a calm, factual summary of major developments.  
+
 For real-time updates, see:
 
 - [NHS England announcements](https://www.england.nhs.uk/news/)
+  
 - [UK Government consultations](https://www.gov.uk/search/policy-papers-and-consultations)
+  
 - [Parliament bill tracking](https://bills.parliament.uk)
 
 ---
