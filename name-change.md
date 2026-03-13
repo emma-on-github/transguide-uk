@@ -147,9 +147,11 @@ Keep the original safe and make copies if needed.
 
 **Disclaimer:** Information on this page is accurate as of March 2026.
 
-## Automatic Updates
+<h2>Automatic Updates</h2>
 <div id="auto-updates"></div>
-<script src="assets/js/updates.js"></script>
 
 <div id="checker"></div>
-<script src="assets/js/checker.js"></script>
+
+<script src="{{ site.baseurl }}/assets/js/updates.js"></script>
+<script src="{{ site.baseurl }}/assets/js/checker.js"></script>
+
