@@ -1,3 +1,8 @@
+---
+layout: default
+title: "About"
+---
+
 # About TransGuide UK
 
 TransGuide UK is an independent, calm, and factual information hub created to support transgender people and allies across the United Kingdom. The aim is simple: to make reliable, accessible information easy to find and easy to understand.
