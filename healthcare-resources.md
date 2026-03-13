@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Healthcare Resources"
+---
+
 # Trans Healthcare in the UK
 
 Accessing gender-affirming healthcare in the UK can feel complex, but understanding the system helps you make informed decisions.  This page outlines the main pathways available as of March 2026.
@@ -59,4 +64,5 @@ Many GPs agree to shared care, though some decline.
 
 <script src="{{ site.baseurl }}/assets/js/updates.js"></script>
 <script src="{{ site.baseurl }}/assets/js/checker.js"></script>
+
 
