@@ -1,0 +1,5 @@
+<nav class="site-nav">
+  {% for link in site.nav_links %}
+    <a href="{{ site.baseurl }}{{ link.url }}">{{ link.name }}</a>
+  {% endfor %}
+</nav>
