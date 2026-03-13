@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Myths-busting"
+---
+
 # Myth Busting: Facts About Trans People
 
 Misinformation about transgender people is widespread.  This page provides clear, evidence-based explanations to help counter common myths.
@@ -43,4 +48,5 @@ Misinformation about transgender people is widespread.  This page provides clear
 
 <script src="{{ site.baseurl }}/assets/js/updates.js"></script>
 <script src="{{ site.baseurl }}/assets/js/checker.js"></script>
+
 
