@@ -1,0 +1,20 @@
+/* Remove grey background */
+body {
+  background: #ffffff !important;
+  margin: 0;
+  padding: 0;
+  color: #000;
+  font-family: system-ui, sans-serif;
+}
+
+/* Override the theme's narrow wrapper */
+.wrapper, .page-content {
+  max-width: 900px !important;
+  margin: 0 auto !important; /* centers the content */
+  padding: 20px !important;
+}
+
+/* Optional: give the content a cleaner look */
+.page-content {
+  background: #ffffff;
+}
