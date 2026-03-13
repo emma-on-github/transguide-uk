@@ -8,13 +8,36 @@ body {
 }
 
 /* Override the theme's narrow wrapper */
-.wrapper, .page-content {
-  max-width: 900px !important;
-  margin: 0 auto !important; /* centers the content */
-  padding: 20px !important;
+.page-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
 }
 
 /* Optional: give the content a cleaner look */
 .page-content {
   background: #ffffff;
+}
+
+/* Navigation container */
+nav {
+  display: flex;
+  gap: 20px;              /* space between links */
+  justify-content: center; /* center the whole nav bar */
+  padding: 15px 0;
+}
+
+/* Navigation links */
+nav a {
+  text-decoration: none;
+  color: #000;
+  font-weight: 600;
+  padding: 6px 10px;
+  border-radius: 6px;
+  transition: background 0.2s ease;
+}
+
+/* Hover effect */
+nav a:hover {
+  background: #f0f0f0;
 }
