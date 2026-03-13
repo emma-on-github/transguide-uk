@@ -1,0 +1,35 @@
+title: "TransGuide UK"
+description: "A calm, factual resource hub supporting transgender people and allies across the UK."
+theme: jekyll-theme-cayman
+
+markdown: kramdown
+highlighter: rouge
+
+# nav_links:
+#   - name: "Homepage"
+#     url: "/"
+#   - name: "About"
+#     url: "/about"
+#   - name: "Myths Busting"
+#     url: "/myths/myths-busting"
+#   - name: "Healthcare Resources"
+#     url: "/resources/healthcare-resources"
+#   - name: "Legal Rights"
+#     url: "/resources/legal-rights"
+#   - name: "Change Names"
+#     url: "/guides/change-names"
+#   - name: "Support Organisations"
+#     url: "/resources/support-organisations"
+#   - name: "Latest Updates"
+#     url: "/resources/latest-updates"
+
+author: "TransGuide UK"
+url: "https:// emma-on-github.github.io/transguide-uk"
+baseurl: ""
+
+  - jekyll-feed
+  - jekyll-seo-tag
+
+seo:
+  type: "website"
+  name: "TransGuide UK"
