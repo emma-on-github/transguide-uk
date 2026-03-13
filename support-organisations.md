@@ -1,10 +1,6 @@
----
-title: "Support Organisations"
----
-
 # Support Organisations in the UK
 
-Many organisations across the UK provide support, information, and community spaces for transgender people. This page lists well-established groups as of March 2026.
+Many organisations across the UK provide support, information, and community spaces for transgender people.  This page lists well-established groups as of March 2026.
 
 ---
 
@@ -63,7 +59,7 @@ Some charities and private practitioners specialise in supporting trans people.
 
 ## Emergency Support
 
-If you or someone you know is in immediate danger or distress, contact [emergency services] (https://www.nhs.uk/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/) or a trusted crisis support line.
+If you or someone you know is in immediate danger or distress, contact [emergency services](https://www.nhs.uk/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/) or a trusted crisis support line.
 
 ---
 
