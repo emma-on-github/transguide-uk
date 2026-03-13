@@ -39,7 +39,9 @@ This site is maintained independently (by [Emma Hicks]( https://www.linkedin.com
 
 <h2>Automatic Updates</h2>
 <div id="auto-updates"></div>
-<script src="assets/js/updates.js"></script>
 
 <div id="checker"></div>
-<script src="assets/js/checker.js"></script>
+
+<script src="{{ site.baseurl }}/assets/js/updates.js"></script>
+<script src="{{ site.baseurl }}/assets/js/checker.js"></script>
+
