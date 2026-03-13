@@ -1,10 +1,6 @@
----
-title: "Healthcare Resources"
----
-
 # Trans Healthcare in the UK
 
-Accessing gender-affirming healthcare in the UK can feel complex, but understanding the system helps you make informed decisions. This page outlines the main pathways available as of March 2026.
+Accessing gender-affirming healthcare in the UK can feel complex, but understanding the system helps you make informed decisions.  This page outlines the main pathways available as of March 2026.
 
 ---
 
@@ -13,6 +9,7 @@ Accessing gender-affirming healthcare in the UK can feel complex, but understand
 [NHS Gender Identity Clinics](https://transactual.org.uk/medical-transition/gender-dysphoria-clinics/) provide assessments, hormone therapy, and referrals for surgeries.
 
 ### How to Access a GIC
+
 1. Register with a GP.
 2. Ask for a referral to a Gender Identity Clinic.
 3. Your GP does not need specialist training to refer you.
@@ -25,6 +22,7 @@ Waiting times vary significantly across the UK and can be long.
 ## Private Healthcare Options
 
 Some people choose private providers to reduce waiting times. Private care may include:
+
 - Hormone therapy
 - Psychological support
 - Surgical referrals
@@ -36,6 +34,7 @@ Private and NHS care can be used together.
 ## Shared Care with Your GP
 
 Shared care means:
+
 - A private specialist prescribes hormones
 - Your GP handles blood tests and monitoring
 
@@ -51,7 +50,7 @@ Many GPs agree to shared care, though some decline.
 
 ---
 
-**Disclaimer:** Information on this page is accurate as of March 2026. Healthcare pathways may change as NHS England reviews gender identity services.
+**Disclaimer:** Information on this page is accurate as of March 2026.  Healthcare pathways may change as NHS England reviews gender identity services.
 
 <h2>Automatic Updates</h2>
 <div id="auto-updates"></div>
