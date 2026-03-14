@@ -19,19 +19,20 @@ TransGuide UK aims to offer clarity without judgement, pressure, or political no
 
 ## Start Here
 
-- [About](about.md)
-- [Myth‑busting](myths-busting/)
-- [Healthcare](healthcare/)
-- [Legal Rights](legal-rights/)
-- [Change Names](change-names/)
-- [Support Organisations](support-organisations/)
-- [Latest Updates](latest-updates.md)
+- [About](/transguide-uk/about)
+- [Myth‑busting](/transguide-uk/myths-busting)
+- [Healthcare](/transguide-uk/healthcare-resources)
+- [Legal Rights](/transguide-uk/legal-rights)
+- [Change Names](/transguide-uk/name-change)
+- [Support Organisations](/transguide-uk/support-organisations)
+- [Latest Updates](/transguide-uk/latest-updates)
 
 ---
 
 ## About This Site
 
 Trans people in the UK face increasing misinformation and barriers to essential services. Reliable, accessible information can make a meaningful difference.  
+
 TransGuide UK exists to provide that information in a calm, factual, and supportive way.
 
 This site is maintained independently (by [Emma Hicks](https://www.linkedin.com/in/emmahicks01)) and aims to stay up to date with major developments affecting transgender people.
@@ -39,6 +40,3 @@ This site is maintained independently (by [Emma Hicks](https://www.linkedin.com/
 ---
 
 **Disclaimer:** Information on this site is accurate as of March 2026. Policies, services, and waiting times may change. Always check official NHS and government sources for the latest updates.
-
-
-
