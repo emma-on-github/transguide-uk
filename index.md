@@ -19,13 +19,13 @@ TransGuide UK aims to offer clarity without judgement, pressure, or political no
 
 ## Start Here
 
-- [About](/transguide-uk/about)
-- [Myth‑busting](/transguide-uk/myths-busting)
-- [Healthcare](/transguide-uk/healthcare-resources)
-- [Legal Rights](/transguide-uk/legal-rights)
-- [Change Names](/transguide-uk/name-change)
-- [Support Organisations](/transguide-uk/support-organisations)
-- [Latest Updates](/transguide-uk/latest-updates)
+- [About](/transguide-uk/about.md)
+- [Myth‑busting](/transguide-uk/myths-busting.md)
+- [Healthcare](/transguide-uk/healthcare-resources.md)
+- [Legal Rights](/transguide-uk/legal-rights.md)
+- [Change Names](/transguide-uk/name-change.md)
+- [Support Organisations](/transguide-uk/support-organisations.md)
+- [Latest Updates](/transguide-uk/latest-updates.md)
 
 ---
 
