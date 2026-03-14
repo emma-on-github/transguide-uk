@@ -8,6 +8,7 @@ nav_order: 1
 A calm and factual resource hub designed to support transgender people and allies across the United Kingdom.
 
 This site provides:
+
 - Clear guides for navigating healthcare, legal processes, and everyday rights
 - Evidence-based information to counter misinformation
 - Links to supportive organisations and community groups
@@ -19,13 +20,13 @@ TransGuide UK aims to offer clarity without judgement, pressure, or political no
 
 ## Start Here
 
-- [About](/transguide-uk/about.md)
-- [Myth‑busting](/transguide-uk/myths-busting/index.md)
-- [Healthcare](/transguide-uk/healthcare-resources/index.md)
-- [Legal Rights](/transguide-uk/legal-rights/index.md)
-- [Change Names](/transguide-uk/name-change/index.md)
-- [Support Organisations](/transguide-uk/support-organisations/index.md)
-- [Latest Updates](/transguide-uk/latest-updates.md)
+- [About](/transguide-uk/about)
+- [Myth‑busting](/transguide-uk/myths-busting)
+- [Healthcare](/transguide-uk/healthcare-resources)
+- [Legal Rights](/transguide-uk/legal-rights)
+- [Change Names](/transguide-uk/name-change)
+- [Support Organisations](/transguide-uk/support-organisations)
+- [Latest Updates](/transguide-uk/latest-updates)
 
 ---
 
