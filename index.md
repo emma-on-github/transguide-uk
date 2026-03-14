@@ -19,6 +19,8 @@ TransGuide UK aims to offer clarity without judgement, pressure, or political no
 
 ## Start Here
 
+## Start Here
+
 - [About](/transguide-uk/about)
 - [Myth‑busting](/transguide-uk/myths-busting)
 - [Healthcare](/transguide-uk/healthcare-resources)
