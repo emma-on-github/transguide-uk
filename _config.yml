@@ -1,0 +1,13 @@
+title: "TransGuide UK"
+description: "Clear, factual guidance for trans people in the UK"
+theme: just-the-docs
+
+url: "https://emma-on-github.github.io/transguide-uk"
+
+search_enabled: true
+
+just_the_docs:
+  collections:
+    pages:
+      name: "Pages"
+      nav_order: 1
