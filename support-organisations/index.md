@@ -41,7 +41,7 @@ Several moderated online spaces provide:
 
 (Always choose communities with clear moderation and safety guidelines.)
 
-[MindOut](https://mindout.org.uk)
+[MindOut](https://mindout.org.uk) , 
 [Trans Unite](https://www.transunite.co.uk)
 
 
