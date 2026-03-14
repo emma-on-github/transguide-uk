@@ -51,9 +51,9 @@ Several moderated online spaces provide:
 
 ### LGBTQ+-friendly counselling services
 Some charities and private practitioners specialise in supporting trans people.
-[Pink Therapy](https://pinktherapy.com)
-[LGBT Foundation](https://lgbt.foundation)
-[Switchboard LGBT+ Helpline](https://switchboard.lgbt)
+[Pink Therapy](https://pinktherapy.com) ,
+[LGBT Foundation](https://lgbt.foundation) ,
+[Switchboard LGBT+ Helpline](https://switchboard.lgbt) , 
 [LGBT Counselling Therapy Services](https://www.lgbtcounsellingservices.co.uk/lgbt-counselling)
 
 ### General mental health services
