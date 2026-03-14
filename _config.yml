@@ -9,10 +9,3 @@ search_enabled: true
 
 plugins:
   - jekyll-remote-theme
-
-just_the_docs:
-  collections:
-    pages:
-      name: "Pages"
-      nav_order: 1
-
