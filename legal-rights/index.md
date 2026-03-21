@@ -3,6 +3,8 @@ title: "Legal Rights"
 nav_order: 5
 ---
 
+[About](/transguide-uk/about) | [Myth‑busting](/transguide-uk/myths-busting/) | [Healthcare](/transguide-uk/healthcare/) | [Legal Rights](/transguide-uk/legal-rights/) | [Change Names](/transguide-uk/change-names/) | [Support Organisations](/transguide-uk/support-organisations/) | [Latest Updates](/transguide-uk/latest-updates)
+
 # Legal Rights for Trans People in the UK
 
 Trans people in the UK are protected by several important laws. This page provides a clear overview of your rights as of March 2026.
