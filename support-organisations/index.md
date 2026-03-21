@@ -78,9 +78,8 @@ Some charities and private practitioners specialise in supporting trans and LGBT
 
 Trusted providers include:
 - [Pink Therapy](https://pinktherapy.com) – Directory of gender-, sex-, and relationship‑diverse therapists  
-- [LGBT Foundation](https://lgbt.foundation) – Wellbeing support, counselling, and mental health resources  
 - [Switchboard LGBT+ Helpline](https://switchboard.lgbt) – Listening support and signposting  
-- [LGBT Counselling & Therapy Services](https://www.lgbt-counselling.co.uk) – LGBTQ+‑affirming counselling (private practice)  
+- [LGBT Counselling Services](https://www.lgbtcounsellingservices.co.uk) – LGBTQ+‑affirming counselling (private practice)  
 - [MindOut](https://mindout.org.uk) – LGBTQ+ mental health charity offering online support and peer mentoring  
 
 ### General Mental Health Services
