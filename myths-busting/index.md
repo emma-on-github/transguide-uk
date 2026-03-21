@@ -3,6 +3,8 @@ title: "Myth‑busting"
 nav_order: 3
 ---
 
+[About](/transguide-uk/about) | [Myth‑busting](/transguide-uk/myths-busting/) | [Healthcare](/transguide-uk/healthcare/) | [Legal Rights](/transguide-uk/legal-rights/) | [Change Names](/transguide-uk/change-names/) | [Support Organisations](/transguide-uk/support-organisations/) | [Latest Updates](/transguide-uk/latest-updates)
+
 # Myth Busting: Facts About Trans People
 
 Misinformation about transgender people is widespread. This page provides clear, evidence-based explanations to help counter common myths.
