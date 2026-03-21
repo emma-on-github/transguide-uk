@@ -3,8 +3,9 @@ title: "TransGuide UK"
 nav_order: 1
 ---
 
-[About](/transguide-uk/about) | [Myth‑busting](/transguide-uk/myths-busting/) | [Healthcare](/transguide-uk/healthcare/) | [Legal Rights](/transguide-uk/legal-rights/) | [Change Names](/transguide-uk/change-names/) | [Support Organisations](/transguide-uk/support-organisations/) | [Latest Updates](/transguide-uk/latest-updates)
+[Home](/transguide-uk/home) | [About](/transguide-uk/about) | [Myth‑busting](/transguide-uk/myths-busting/) | [Healthcare](/transguide-uk/healthcare/) | [Legal Rights](/transguide-uk/legal-rights/) | [Change Names](/transguide-uk/change-names/) | [Support Organisations](/transguide-uk/support-organisations/) | [Latest Updates](/transguide-uk/latest-updates)
 
+---
 
 # Welcome to TransGuide UK
 
