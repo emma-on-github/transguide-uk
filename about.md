@@ -3,6 +3,8 @@ title: "About"
 nav_order: 2
 ---
 
+[About](/transguide-uk/about) | [Myth‑busting](/transguide-uk/myths-busting/) | [Healthcare](/transguide-uk/healthcare/) | [Legal Rights](/transguide-uk/legal-rights/) | [Change Names](/transguide-uk/change-names/) | [Support Organisations](/transguide-uk/support-organisations/) | [Latest Updates](/transguide-uk/latest-updates)
+
 # About TransGuide UK
 
 TransGuide UK is an independent, calm, and factual information hub created to support transgender people and allies across the United Kingdom. The aim is simple: to make reliable, accessible information easy to find and easy to understand.
