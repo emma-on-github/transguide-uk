@@ -49,7 +49,15 @@ If you're new here, the following sections are a good place to begin:
 
 TransGuide UK is here to help you find clarity, confidence, and trustworthy information whenever you need it.
 
+---
 
+### Disclaimer
+
+The information on this website is provided for general guidance only. It is not legal advice, medical advice, or a substitute for professional support. While I aim to keep all content accurate and up to date, laws, NHS processes, and organisational policies can change. Always check official sources or speak to a qualified professional before making decisions based on this information.
+
+This site may link to external organisations; I am not responsible for the content of those websites.
+
+---
 
 
 
