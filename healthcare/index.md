@@ -80,7 +80,7 @@ If your GP cannot provide shared care, you can still use private services indepe
 
 - [NHS information on gender dysphoria](https://www.nhs.uk/conditions/gender-dysphoria/)
   
-- Local LGBTQ+ health services – [LGBT Foundation](https://lgbt.foundation), [London Friend](https://londonfriend.org.uk), [MindOut](https://mindout.org.uk)
+- Local LGBTQ+ health services – [Birmingham LGBT](https://blgbt.org), [London Friend](https://londonfriend.org.uk), [MindOut](https://mindout.org.uk)
   
 - Community Support Organisations - [Sapphic Bison](https://sapphicbison.org) Peer support, community resources, signposting, and access to private blood testing through partner labs.
 
