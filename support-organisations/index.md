@@ -35,7 +35,6 @@ Many towns and cities have community centres offering:
 - Local advocacy and wellbeing activities
 
 Examples include:
-- [LGBT Foundation (Manchester)](https://lgbt.foundation)
 - [London LGBTQ+ Community Centre](https://londonlgbtqcentre.org)
 - [The Proud Trust (North West)](https://www.theproudtrust.org)
 - [Birmingham LGBT](https://blgbt.org)
@@ -53,7 +52,7 @@ Trusted options include:
 - [Trans Unite](https://www.transunite.co.uk)
 - [Mermaids (young people & families)](https://mermaidsuk.org.uk)
 - [Gendered Intelligence community groups](https://genderedintelligence.co.uk)
-- [Stonewall community resources](https://stonewall.org.uk/help-and-advice)
+- [Stonewall community resources](https://www.stonewall.org.uk/resources/support-services-in-the-sector)
 - [Switchboard LGBT+ Helpline](https://switchboard.lgbt)
 - [The Beaumont Society](https://beaumontsociety.org.uk)
 - [FTM London](https://ftmlondon.org.uk)
