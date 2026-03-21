@@ -119,4 +119,11 @@ If you’re unsure which service to contact, NHS 111 can help guide you to the r
 
 ---
 
-**Disclaimer:** Information on this page is accurate as of March 2026. Organisations may change their services or availability over time.
+### Disclaimer
+
+The information on this website is provided for general guidance only. It is not legal advice, medical advice, or a substitute for professional support. While I aim to keep all content accurate and up to date, laws, NHS processes, and organisational policies can change. Always check official sources or speak to a qualified professional before making decisions based on this information.
+
+This site may link to external organisations; I am not responsible for the content of those websites.
+
+---
+
