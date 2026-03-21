@@ -1,5 +1,5 @@
 ---
-title: "Support Organisations"
+title: "TransGuide UK"
 nav_order: 7
 ---
 
