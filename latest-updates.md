@@ -3,6 +3,8 @@ title: "Latest Updates"
 nav_order: 8
 ---
 
+[About](/transguide-uk/about) | [Myth‑busting](/transguide-uk/myths-busting/) | [Healthcare](/transguide-uk/healthcare/) | [Legal Rights](/transguide-uk/legal-rights/) | [Change Names](/transguide-uk/change-names/) | [Support Organisations](/transguide-uk/support-organisations/) | [Latest Updates](/transguide-uk/latest-updates)
+
 # Latest Updates
 
 This page highlights recent developments affecting transgender rights, healthcare, and legal processes in the UK.  It is updated manually based on official announcements and trusted organisations.
