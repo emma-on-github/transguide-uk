@@ -3,6 +3,8 @@ title: "Healthcare"
 nav_order: 4
 ---
 
+[About](/transguide-uk/about) | [Myth‑busting](/transguide-uk/myths-busting/) | [Healthcare](/transguide-uk/healthcare/) | [Legal Rights](/transguide-uk/legal-rights/) | [Change Names](/transguide-uk/change-names/) | [Support Organisations](/transguide-uk/support-organisations/) | [Latest Updates](/transguide-uk/latest-updates)
+
 # Trans Healthcare in the UK
 
 Accessing gender-affirming healthcare in the UK can feel complex, but understanding the system helps you make informed decisions. This page outlines the main pathways available as of March 2026.
