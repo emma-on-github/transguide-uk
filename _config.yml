@@ -3,9 +3,9 @@ description: "Clear, factual guidance for trans people in the UK"
 
 url: "https://emma-on-github.github.io/transguide-uk"
 
-remote_theme: just-the-docs/just-the-docs@v0.5.2
+theme: jekyll-theme-cayman
 
 search_enabled: true
 
 plugins:
-  - jekyll-remote-theme
+  - jekyll-theme-cayman
