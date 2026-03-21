@@ -7,9 +7,9 @@ nav_order: 5
 
 ---
 
-# Legal Rights for Trans People in the UK
+# Rights of Transgender People in the UK
 
-Trans people in the UK are protected by several important laws. This page provides a clear overview of your rights as of March 2026.
+Trans people in the UK are protected by several important laws. This page provides a clear overview of your rights as of March 2026, with links to official UK sources.
 
 ---
 
@@ -17,23 +17,29 @@ Trans people in the UK are protected by several important laws. This page provid
 
 Trans people are protected under the characteristic of **gender reassignment**. This protection applies if you:
 
-- Are proposing to transition
-- Are currently transitioning
-- Have transitioned in the past
+- are proposing to transition  
+- are currently transitioning  
+- have transitioned in the past  
 
-You do not need:
+You do **not** need:
 
-- A Gender Recognition Certificate
-- Medical treatment
-- A diagnosis
+- a Gender Recognition Certificate (GRC)  
+- medical treatment  
+- a diagnosis  
 
 Protection covers:
 
-- Employment
-- Education
-- Goods and services
-- Housing
-- Public spaces
+- employment  
+- education  
+- goods and services  
+- housing  
+- public spaces  
+
+**UK sources:**
+
+- [Equality and Human Rights Commission (EHRC) – Gender Reassignment Discrimination](https://www.equalityhumanrights.com)  
+- [Legislation.gov.uk – Equality Act 2010 (Section 7: Gender Reassignment)](https://www.legislation.gov.uk/ukpga/2010/15/section/7)  
+- [Acas – Gender Reassignment Discrimination](https://www.acas.org.uk/)
 
 ---
 
@@ -41,50 +47,139 @@ Protection covers:
 
 It is unlawful for someone to:
 
-- Treat you worse because you are trans
-- Harass you because you are trans
-- Victimise you for asserting your rights
+- treat you worse because you are trans  
+- harass you because you are trans  
+- victimise you for asserting your rights  
 
-Employers, schools, and service providers must make reasonable adjustments to ensure you are treated fairly.
+This applies to employers, schools, landlords, service providers, and public bodies.
 
----
+**UK sources:**
 
-## Gender Recognition Certificate (GRC)
-
-A GRC allows you to:
-
-- Be legally recognised in your affirmed gender
-- Obtain a new birth certificate
-
-A GRC is **not required** for:
-
-- Changing your name
-- Updating most documents
-- Being protected under the Equality Act
+- [EHRC – Your Rights Under the Equality Act](https://www.equalityhumanrights.com)  
+- [Acas – Types of Discrimination](https://www.acas.org.uk/)
 
 ---
 
-## Changing Documents
+## Harassment
 
-You can update:
+Harassment is unlawful when someone creates an environment that is:
 
-- Passport
-- Driving licence
-- Bank accounts
-- GP records
-- Employment records
+- hostile  
+- intimidating  
+- degrading  
+- humiliating  
+- offensive  
 
-Most organisations accept a deed poll as proof of name change.
+This includes repeated intentional misgendering or targeted comments.
+
+**UK sources:**
+
+- [EHRC – Harassment Guidance](https://www.equalityhumanrights.com)
 
 ---
 
-## Additional Rights
+## Victimisation
 
-- You have the right to access healthcare without discrimination.
-  
-- You have the right to privacy regarding your trans status.
-  
-- Schools and workplaces must protect you from harassment.
+Victimisation happens when someone treats you badly because you:
+
+- made a complaint about discrimination  
+- supported someone else’s complaint  
+- asserted your legal rights  
+
+You are protected even if the complaint is not upheld, as long as it was made in good faith.
+
+**UK sources:**
+
+- [Acas – Victimisation](https://www.acas.org.uk/)
+
+---
+
+## Gender Recognition Act 2004
+
+The Gender Recognition Act allows trans people to apply for a **Gender Recognition Certificate (GRC)**. A GRC:
+
+- changes your legal sex on your birth certificate  
+- allows marriage or civil partnership in your affirmed gender  
+- ensures recognition for pensions and some legal processes  
+
+A GRC is **not required** for Equality Act protection.
+
+**UK sources:**
+
+- [GOV.UK – Apply for a Gender Recognition Certificate](https://www.gov.uk/apply-gender-recognition-certificate)  
+- [Legislation.gov.uk – Gender Recognition Act 2004](https://www.legislation.gov.uk/ukpga/2004/7)
+
+---
+
+## Privacy Rights
+
+Your trans status is protected information. Certain organisations must not disclose it without your consent. This includes:
+
+- employers  
+- public bodies  
+- some service providers  
+
+Unlawful disclosure can be a criminal offence in some circumstances.
+
+**UK sources:**
+
+- [EHRC – Guidance on Confidentiality](https://www.equalityhumanrights.com)  
+- [GOV.UK – Data Protection and Privacy](https://www.gov.uk/data-protection)
+
+---
+
+## Hate Crime Protection
+
+Transphobic hate crimes are recognised under UK law. This includes:
+
+- verbal abuse  
+- threats  
+- assault  
+- online harassment  
+- property damage  
+
+**UK sources:**
+
+- [UK Police – Hate Crime Information](https://www.police.uk)  
+- [CPS – Hate Crime and the Law](https://www.cps.gov.uk/hate-crime)
+
+---
+
+## Healthcare Rights
+
+Trans people have the right to:
+
+- access NHS services without discrimination  
+- be treated with dignity and respect  
+- have their name and pronouns used  
+- receive care based on need  
+- use private and NHS care together  
+
+You can ask your GP to update your name and gender marker on your medical records.
+
+**UK sources:**
+
+- [NHS – Your Rights in the NHS](https://www.nhs.uk)  
+- [TransActual – Know Your Rights](https://www.transactual.org.uk)
+
+---
+
+## Changing Your Documents
+
+Many documents can be updated **without** a GRC, including:
+
+- passport  
+- driving licence  
+- bank accounts  
+- GP records  
+- employment records  
+
+A GRC is only required to update your **birth certificate**.
+
+**UK sources:**
+
+- [GOV.UK – Change Your Name or Personal Details](https://www.gov.uk)  
+- [GOV.UK – Passport Gender Marker](https://www.gov.uk/apply-renew-passport)
 
 ---
 
