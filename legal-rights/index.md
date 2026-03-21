@@ -1,5 +1,5 @@
 ---
-title: "Legal Rights"
+title: "TransGuide UK"
 nav_order: 5
 ---
 
