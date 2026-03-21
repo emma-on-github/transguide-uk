@@ -86,6 +86,13 @@ If your GP cannot provide shared care, you can still use private services indepe
 
 ---
 
-**Disclaimer:** Information on this page is accurate as of March 2026. Healthcare pathways may change as NHS England reviews gender identity services.
+### Disclaimer
+
+The information on this website is provided for general guidance only. It is not legal advice, medical advice, or a substitute for professional support. While I aim to keep all content accurate and up to date, laws, NHS processes, and organisational policies can change. Always check official sources or speak to a qualified professional before making decisions based on this information.
+
+This site may link to external organisations; I am not responsible for the content of those websites.
+
+---
+
 
 
