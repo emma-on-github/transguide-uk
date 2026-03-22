@@ -13,10 +13,3 @@
 .nav-links a:hover {
   text-decoration: underline;
 }
-
-.main-content > *:last-child {
-  font-size: 0.8rem;
-  color: #dddddd;
-  text-align: center;
-  line-height: 1.4;
-}
