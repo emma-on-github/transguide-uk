@@ -3,8 +3,6 @@ title: "TransGuide UK"
 nav_order: 6
 ---
 
-[Home](/transguide-uk/index) | [About](/transguide-uk/about) | [Myth‑busting](/transguide-uk/myths-busting/) | [Healthcare](/transguide-uk/healthcare/) | [Legal Rights](/transguide-uk/legal-rights/) | [Change Names](/transguide-uk/change-names/) | [Support Organisations](/transguide-uk/support-organisations/) | [Latest Updates](/transguide-uk/latest-updates)
-
 ---
 
 # How to Legally Change Your Name in the UK
