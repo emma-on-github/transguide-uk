@@ -28,15 +28,11 @@
   margin-bottom: 0.5rem;
 }
 
-.main-content * {
+/* Override Cayman theme centring */
+section.main-content {
   text-align: left !important;
 }
 
-.page-content {
+section.main-content * {
   text-align: left !important;
 }
-
-.wrapper {
-  text-align: left !important;
-}
-
