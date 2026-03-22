@@ -23,7 +23,7 @@ TransGuide UK aims to offer clarity without judgement, pressure, or political no
 ## Start Here
 
 - [About](/transguide-uk/about)
-- [Myth‑busting](/transguide-uk/myths-busting/)
+- [Myth‑busting](/transguide-uk/myth-busting/)
 - [Healthcare](/transguide-uk/healthcare/)
 - [Legal Rights](/transguide-uk/legal-rights/)
 - [Change Names](/transguide-uk/change-names/)
