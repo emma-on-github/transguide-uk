@@ -13,3 +13,10 @@
 .nav-links a:hover {
   text-decoration: underline;
 }
+
+.main-content p:last-of-type {
+  font-size: 0.8rem;
+  color: #dddddd;
+  text-align: center;
+  margin-top: 20px;
+}
