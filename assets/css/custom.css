@@ -13,3 +13,22 @@
 .nav-links a:hover {
   text-decoration: underline;
 }
+
+.disclaimer {
+  font-size: 0.85rem;
+  color: #cccccc;
+  text-align: left;
+  line-height: 1.5;
+  margin-top: 2rem;
+}
+
+.disclaimer h3 {
+  font-size: 1rem;
+  margin-bottom: 0.4rem;
+}
+
+.disclaimer p {
+  margin-top: 0.3rem;
+}
+
+
