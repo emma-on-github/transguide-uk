@@ -12,6 +12,19 @@
 
   <body>
 
+<header class="site-header">
+  <nav class="nav-links">
+    <a href="{{ '/' | relative_url }}">Home</a>
+    <a href="{{ '/about' | relative_url }}">About</a>
+    <a href="{{ '/myth-busting' | relative_url }}">Myth‑busting</a>
+    <a href="{{ '/healthcare' | relative_url }}">Healthcare</a>
+    <a href="{{ '/legal-rights' | relative_url }}">Legal Rights</a>
+    <a href="{{ '/change-names' | relative_url }}">Change Names</a>
+    <a href="{{ '/support-organisations' | relative_url }}">Support Organisations</a>
+    <a href="{{ '/latest-updates' | relative_url }}">Latest Updates</a>
+  </nav>
+</header>
+    
     <section class="page-header">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
