@@ -15,20 +15,25 @@
 }
 
 .disclaimer {
-  font-size: 0.85rem;
-  color: #cccccc;
-  text-align: left;
-  line-height: 1.5;
-  margin-top: 2rem;
+  font-size: 0.9rem;          /* slightly larger */
+  color: #666666;             /* darker grey for better contrast */
+  text-align: center;
+  line-height: 1.6;           /* improves readability */
+  margin-top: 2.5rem;
+  max-width: 700px;           /* keeps lines from getting too long */
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .disclaimer h3 {
-  font-size: 1rem;
-  margin-bottom: 0.4rem;
+  font-size: 1.05rem;         /* readable but still smaller than normal headings */
+  color: #444444;             /* darker for clarity */
+  margin-bottom: 0.5rem;
 }
 
 .disclaimer p {
-  margin-top: 0.3rem;
+  margin-top: 0.4rem;
 }
+
 
 
