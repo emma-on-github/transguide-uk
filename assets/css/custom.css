@@ -29,9 +29,10 @@
 }
 
 /* This is the rule that actually fixes the centring */
-.main-content .disclaimer {
+.main-content {
   text-align: left !important;
 }
+
 
 
 
