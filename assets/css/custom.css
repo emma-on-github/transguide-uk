@@ -14,9 +14,9 @@
   text-decoration: underline;
 }
 
-.main-content p:last-of-type {
+.main-content > *:last-child {
   font-size: 0.8rem;
   color: #dddddd;
-  text-align: center;
-  margin-top: 20px;
+  text-align: left;
+  line-height: 1.4;
 }
