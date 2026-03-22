@@ -49,6 +49,8 @@ TransGuide UK is here to help you find clarity, confidence, and trustworthy info
 
 ---
 
+<div class="disclaimer">
+
 ### Disclaimer
 
 The information on this website is provided for general guidance only. It is not legal advice, medical advice, or a substitute for professional support. While I aim to keep all content accurate and up to date, laws, NHS processes, and organisational policies can change. Always check official sources or speak to a qualified professional before making decisions based on this information.
