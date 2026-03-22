@@ -28,8 +28,7 @@
   margin-bottom: 0.5rem;
 }
 
-/* This is the rule that actually fixes the centring */
-.main-content {
+.main-content * {
   text-align: left !important;
 }
 
