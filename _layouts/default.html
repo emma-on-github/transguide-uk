@@ -15,7 +15,10 @@
   
     <section class="page-header">
 
-<header class="site-header">
+      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+    
+  <header class="site-header">
   <nav class="nav-links">
     <a href="{{ '/' | relative_url }}">Home</a>
     <a href="{{ '/about' | relative_url }}">About</a>
@@ -26,10 +29,7 @@
     <a href="{{ '/support-organisations' | relative_url }}">Support Organisations</a>
     <a href="{{ '/latest-updates' | relative_url }}">Latest Updates</a>
   </nav>
-</header>
-      
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+</header>    
     </section>
 
     <section class="main-content">
