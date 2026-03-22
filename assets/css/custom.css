@@ -60,3 +60,11 @@ html body section.main-content {
 html body section.main-content * {
   text-align: left !important;
 }
+
+[align="center"] {
+  text-align: left !important;
+}
+
+[align="center"] * {
+  text-align: left !important;
+}
