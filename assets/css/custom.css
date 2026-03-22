@@ -45,9 +45,18 @@ body * {
   text-align: left !important;
 }
 
+section.main-content {
+  text-align: left !important;
+}
 
+section.main-content * {
+  text-align: left !important;
+}
 
+html body section.main-content {
+  text-align: left !important;
+}
 
-
-
-
+html body section.main-content * {
+  text-align: left !important;
+}
