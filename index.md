@@ -42,10 +42,12 @@ This site is maintained independently (by [Emma Hicks](https://www.linkedin.com/
 
 ---
 
-### Disclaimer
+<div class="disclaimer">
+  <h3>Disclaimer</h3>
 
-The information on this website is provided for general guidance only. It is not legal advice, medical advice, or a substitute for professional support. While I aim to keep all content accurate and up to date, laws, NHS processes, and organisational policies can change. Always check official sources or speak to a qualified professional before making decisions based on this information.
+  <p>The information on this website is provided for general guidance only. It is not legal advice, medical advice, or a substitute for professional support. While I aim to keep all content accurate and up to date, laws, NHS processes, and organisational policies can change. Always check official sources or speak to a qualified professional before making decisions based on this information.</p>
 
-This site may link to external organisations; I am not responsible for the content of those websites.
+  <p>This site may link to external organisations; I am not responsible for the content of those websites.</p>
+</div>
 
 ---
