@@ -15,25 +15,26 @@
 }
 
 .disclaimer {
-  font-size: 0.9rem;          /* slightly larger */
-  color: #666666;             /* darker grey for better contrast */
-  text-align: center;
-  line-height: 1.6;           /* improves readability */
+  font-size: 0.9rem;
+  color: #333333;          /* normal readable body text colour */
+  text-align: left;
+  line-height: 1.6;
   margin-top: 2.5rem;
-  max-width: 700px;           /* keeps lines from getting too long */
+  max-width: 700px;
   margin-left: auto;
   margin-right: auto;
 }
 
 .disclaimer h3 {
-  font-size: 1.05rem;         /* readable but still smaller than normal headings */
-  color: #444444;             /* darker for clarity */
+  font-size: 1.05rem;
+  color: #2a7a3b;          /* your green heading colour */
   margin-bottom: 0.5rem;
 }
 
 .disclaimer p {
   margin-top: 0.4rem;
 }
+
 
 
 
