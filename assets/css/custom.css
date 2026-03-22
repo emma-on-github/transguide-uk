@@ -15,7 +15,6 @@
 }
 
 .disclaimer {
-  text-align: left !important;
   font-size: 0.9rem;
   color: #333333;
   line-height: 1.6;
@@ -28,4 +27,11 @@
   font-size: 1.05rem;
   margin-bottom: 0.5rem;
 }
+
+/* This is the rule that actually fixes the centring */
+.main-content .disclaimer {
+  text-align: left !important;
+}
+
+
 
