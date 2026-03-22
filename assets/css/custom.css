@@ -16,8 +16,8 @@
 
 .disclaimer {
   font-size: 0.9rem;
-  color: #333333;          /* normal readable body text colour */
-  text-align: left;
+  color: #333333;
+  text-align: left !important;   /* ← forces left alignment */
   line-height: 1.6;
   margin-top: 2.5rem;
   max-width: 700px;
@@ -27,14 +27,12 @@
 
 .disclaimer h3 {
   font-size: 1.05rem;
-  color: #2a7a3b;          /* your green heading colour */
+  color: #2a7a3b;                /* your green heading colour */
   margin-bottom: 0.5rem;
 }
 
 .disclaimer p {
   margin-top: 0.4rem;
 }
-
-
 
 
