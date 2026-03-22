@@ -15,24 +15,17 @@
 }
 
 .disclaimer {
+  text-align: left !important;
   font-size: 0.9rem;
   color: #333333;
-  text-align: left !important;   /* ← forces left alignment */
   line-height: 1.6;
-  margin-top: 2.5rem;
   max-width: 700px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 2.5rem auto 0 auto;
 }
 
 .disclaimer h3 {
+  color: #2a7a3b; /* your green */
   font-size: 1.05rem;
-  color: #2a7a3b;                /* your green heading colour */
   margin-bottom: 0.5rem;
 }
-
-.disclaimer p {
-  margin-top: 0.4rem;
-}
-
 
