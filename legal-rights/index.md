@@ -35,9 +35,9 @@ Protection covers:
 
 **UK sources:**
 
-- [Equality and Human Rights Commission (EHRC) – Gender Reassignment Discrimination](https://www.equalityhumanrights.com)  
+- [Equality and Human Rights Commission (EHRC) – Gender Reassignment Discrimination](https://www.equalityhumanrights.com/equality/equality-act-2010/your-rights-under-equality-act-2010/gender-reassignment-discrimination?return-url=https%3A%2F%2Fwww.equalityhumanrights.com%2Fsearch%3Fkeys%3DGender%2BReassignment%2BDiscrimination%26sort_by%3Dsearch_api_relevance)  
 - [Legislation.gov.uk – Equality Act 2010 (Section 7: Gender Reassignment)](https://www.legislation.gov.uk/ukpga/2010/15/section/7)  
-- [Acas – Gender Reassignment Discrimination](https://www.acas.org.uk/)
+- [Acas – Gender Reassignment Discrimination](https://www.acas.org.uk/gender-reassignment-discrimination/types-of-discrimination)
 
 ---
 
@@ -51,10 +51,9 @@ It is unlawful for someone to:
 
 This applies to employers, schools, landlords, service providers, and public bodies.
 
-**UK sources:**
+**UK source:**
 
-- [EHRC – Your Rights Under the Equality Act](https://www.equalityhumanrights.com)  
-- [Acas – Types of Discrimination](https://www.acas.org.uk/)
+- [EHRC – Your Rights Under the Equality Act](https://www.equalityhumanrights.com/equality/equality-act-2010/your-rights-under-equality-act-2010?return-url=https%3A%2F%2Fwww.equalityhumanrights.com%2Fsearch%3Fkeys%3Dyour%2Brights%2Bunder%2Bthe%2Bequality%2Bact)  
 
 ---
 
