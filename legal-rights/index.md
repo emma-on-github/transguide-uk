@@ -118,9 +118,8 @@ Your trans status is protected information. Certain organisations must not discl
 
 Unlawful disclosure can be a criminal offence in some circumstances.
 
-**UK sources:**
+**UK source:**
 
-- [EHRC – Guidance on Confidentiality](https://www.equalityhumanrights.com)  
 - [GOV.UK – Data Protection and Privacy](https://www.gov.uk/data-protection)
 
 ---
@@ -137,8 +136,9 @@ Transphobic hate crimes are recognised under UK law. This includes:
 
 **UK sources:**
 
-- [UK Police – Hate Crime Information](https://www.police.uk)  
 - [CPS – Hate Crime and the Law](https://www.cps.gov.uk/hate-crime)
+- [GOV.UK - Report a Hate Crime](https://www.gov.uk/report-hate-crime)
+- [UK Police – Report a Hate Crime](https://www.police.uk/ro/report/hate-crime/triage/v1/report-hate-crime/)  
 
 ---
 
