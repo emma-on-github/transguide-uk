@@ -181,15 +181,8 @@ A GRC is only required to update your **birth certificate**.
 
 ---
 
-<div class="disclaimer">
-  <h3>Disclaimer</h3>
+### Disclaimer
 
-  <p>The information on this website is provided for general guidance only. It is not legal advice, medical advice, or a substitute for professional support. While I aim to keep all content accurate and up to date, laws, NHS processes, and organisational policies can change. Always check official sources or speak to a qualified professional before making decisions based on this information.</p>
+The information on this website is provided for general guidance only. It is not legal advice, medical advice, or a substitute for professional support. While I aim to keep all content accurate and up to date, laws, NHS processes, and organisational policies can change. Always check official sources or speak to a qualified professional before making decisions based on this information.
 
-  <p>This site may link to external organisations; I am not responsible for the content of those websites.</p>
-</div>
-
----
-
-
-
+This site may link to external organisations; I am not responsible for the content of those websites.
