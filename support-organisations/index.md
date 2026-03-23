@@ -7,7 +7,7 @@ nav_order: 7
 
 # Support Organisations in the UK
 
-Many organisations across the UK provide support, information, and community spaces for transgender people. This page lists well-established groups.
+Many organisations across the UK provide support, information, and community spaces for transgender people. This page lists well-established charities and groups.
 
 ---
 
