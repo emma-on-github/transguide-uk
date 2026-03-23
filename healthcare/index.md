@@ -48,9 +48,9 @@ Below are established private providers in the UK offering gender‑affirming ca
 
 - [GenderCare](https://www.gendercare.co.uk/) - Services: Assessments, hormone therapy, surgical referrals, reports for NHS shared‑care.
 
-- [Anne Health](https://anne.health/) - Services: Hormone therapy, blood tests, remote consultations, ongoing monitoring. *Note: Anne operates digitally and is used by many UK patients seeking faster access.*
+- [Anne Health](https://anne.health/) - Services: Hormone therapy, blood tests, remote consultations, ongoing monitoring. Note: Anne operates digitally and is used by many UK patients seeking faster access.
 
-- [GenderGP](https://www.gendergp.com/) - Services: Hormone therapy, psychological support, monitoring. *Note: Operates outside the UK but widely used by UK residents.*
+- [GenderGP](https://www.gendergp.com/) - Services: Hormone therapy, psychological support, monitoring. Note: Operates outside the UK but widely used by UK residents.
 
 ---
 
