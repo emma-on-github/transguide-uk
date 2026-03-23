@@ -87,7 +87,7 @@ You are protected even if the complaint is not upheld, as long as it was made in
 
 **UK source:**
 
-- [GOV.UK – Discrimination - Victimisation](https://www.gov.uk/discrimination-your-rights/how-you-can-be-discriminated-against)
+- [GOV.UK – Discrimination (Victimisation)](https://www.gov.uk/discrimination-your-rights/how-you-can-be-discriminated-against)
 
 ---
 
