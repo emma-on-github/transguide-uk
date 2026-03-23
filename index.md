@@ -40,7 +40,7 @@ TransGuide UK exists to provide that information in a calm, factual, and support
 
 This site is maintained independently (by [Emma Hicks](https://www.linkedin.com/in/emmahicks01)) and aims to stay up to date with major developments affecting transgender people.
 
-
+---
 
 <div class="disclaimer">
   <h3>Disclaimer</h3>
