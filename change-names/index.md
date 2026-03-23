@@ -144,7 +144,7 @@ Keep the original safe and make copies if needed.
 
 - You do not need a Gender Recognition Certificate to change your name.  
 - You do not need to have medically transitioned.
-- You do not need a solicitor to *create* a deed poll.
+- You do not need a solicitor to create a deed poll.
 - For statutory declarations, a solicitor or other authorised witness is required to administer the declaration.
 
 ---
