@@ -46,10 +46,7 @@ Several moderated online spaces provide:
 - Options for anonymous participation
 
 Trusted options include:
-- [MindOut](https://mindout.org.uk)
 - [Trans Unite](https://www.transunite.co.uk)
-- [Mermaids (young people & families)](https://mermaidsuk.org.uk)
-- [Gendered Intelligence community groups](https://genderedintelligence.co.uk)
 - [Stonewall community resources](https://www.stonewall.org.uk/resources/support-services-in-the-sector)
 - [Switchboard LGBT+ Helpline](https://switchboard.lgbt)
 - [The Beaumont Society](https://beaumontsociety.org.uk)
@@ -106,10 +103,10 @@ These can be helpful alongside or while waiting for formal therapy.
 If you or someone you know is in immediate danger or severe distress, contact emergency services or a trusted crisis support line.
 
 Examples include:
+- Emergency services (999) if there is immediate risk to life
 - NHS 111 (urgent but not life‑threatening mental health concerns)
 - Local NHS crisis teams (available in most regions)
 - Samaritans – 24/7 listening support  
-- Emergency services (999) if there is immediate risk to life
 
 If you’re unsure which service to contact, NHS 111 can help guide you to the right support.
 
