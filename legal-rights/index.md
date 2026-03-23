@@ -173,10 +173,9 @@ Many documents can be updated **without** a GRC, including:
 
 A GRC is only required to update your **birth certificate**.
 
-**UK sources:**
+**UK source:**
 
 - [GOV.UK – Change Your Name or Personal Details](https://www.gov.uk)  
-- [GOV.UK – Passport Gender Marker](https://www.gov.uk/apply-renew-passport)
 
 ---
 
