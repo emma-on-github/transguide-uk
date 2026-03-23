@@ -15,7 +15,7 @@ Both are accepted by most UK organisations, though some are more familiar with d
 
 ---
 
-# Deed Poll
+# <ins>Deed Poll</ins>
 
 [Official GOV.UK guidance](https://www.gov.uk/change-name-deed-poll)
 
@@ -84,7 +84,7 @@ Some organisations may ask for a physical or certified copy.
 
 ---
 
-# Statutory Declaration
+# <ins>Statutory Declaration</ins>
 
 [Official GOV.UK guidance](https://www.gov.uk/government/publications/statutory-declarations)
 
@@ -142,12 +142,9 @@ Keep the original safe and make copies if needed.
 
 # Important Notes
 
-- You do not need a Gender Recognition Certificate to change your name.
-   
+- You do not need a Gender Recognition Certificate to change your name.  
 - You do not need to have medically transitioned.
-  
 - You do not need a solicitor to *create* a deed poll.
-  
 - For statutory declarations, a solicitor or other authorised witness is required to administer the declaration.
 
 ---
