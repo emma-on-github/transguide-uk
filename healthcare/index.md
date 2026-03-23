@@ -7,7 +7,7 @@ nav_order: 4
 
 # Trans Healthcare in the UK
 
-Accessing gender-affirming healthcare in the UK can feel complex, but understanding the system helps you make informed decisions. This page outlines the main pathways available as of March 2026.
+Accessing gender-affirming healthcare in the UK can feel complex, but understanding the system helps you make informed decisions. This page outlines the main pathways available.
 
 ---
 
