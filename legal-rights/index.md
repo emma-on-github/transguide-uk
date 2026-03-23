@@ -156,8 +156,8 @@ You can ask your GP to update your name and gender marker on your medical record
 
 **UK sources:**
 
-- [NHS – Your Rights in the NHS](https://www.nhs.uk)  
-- [TransActual – Know Your Rights](https://www.transactual.org.uk)
+- [General Medical Council – Trans Healthcare](https://www.gmc-uk.org/professional-standards/ethical-hub/trans-healthcare)  
+- [TransActual – Know Your Rights](https://transactual.org.uk/know-your-rights/)
 
 ---
 
