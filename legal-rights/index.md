@@ -69,9 +69,9 @@ Harassment is unlawful when someone creates an environment that is:
 
 This includes repeated intentional misgendering or targeted comments.
 
-**UK sources:**
+**UK source:**
 
-- [EHRC – Harassment Guidance](https://www.equalityhumanrights.com)
+- [EHRC – Harassment Guidance](https://www.equalityhumanrights.com/equality/equality-act-2010/your-rights-under-equality-act-2010/harassment-and-victimisation)
 
 ---
 
