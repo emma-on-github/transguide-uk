@@ -28,43 +28,4 @@
   margin-bottom: 0.5rem;
 }
 
-/* Override Cayman theme centring */
-section.main-content {
-  text-align: left !important;
-}
 
-section.main-content * {
-  text-align: left !important;
-}
-
-body {
-  text-align: left !important;
-}
-
-body * {
-  text-align: left !important;
-}
-
-section.main-content {
-  text-align: left !important;
-}
-
-section.main-content * {
-  text-align: left !important;
-}
-
-html body section.main-content {
-  text-align: left !important;
-}
-
-html body section.main-content * {
-  text-align: left !important;
-}
-
-[align="center"] {
-  text-align: left !important;
-}
-
-[align="center"] * {
-  text-align: left !important;
-}
