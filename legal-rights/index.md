@@ -136,7 +136,7 @@ Transphobic hate crimes are recognised under UK law. This includes:
 
 **UK sources:**
 
-- [CPS – Hate Crime and the Law](https://www.cps.gov.uk/hate-crime)
+- [The Crown Prosecution Service (CPS) – Hate Crime and the Law](https://www.cps.gov.uk/hate-crime)
 - [GOV.UK - Report a Hate Crime](https://www.gov.uk/report-hate-crime)
 - [UK Police – Report a Hate Crime](https://www.police.uk/ro/report/hate-crime/triage/v1/report-hate-crime/)  
 
