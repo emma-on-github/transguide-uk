@@ -85,9 +85,9 @@ Victimisation happens when someone treats you badly because you:
 
 You are protected even if the complaint is not upheld, as long as it was made in good faith.
 
-**UK sources:**
+**UK source:**
 
-- [Acas – Victimisation](https://www.acas.org.uk/)
+- [Acas – Victimisation](https://www.acas.org.uk/gender-reassignment-discrimination/types-of-discrimination)
 
 ---
 
