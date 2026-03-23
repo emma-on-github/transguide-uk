@@ -7,7 +7,7 @@ nav_order: 5
 
 # Rights of Transgender People in the UK
 
-Trans people in the UK are protected by several important laws. This page provides a clear overview of your rights as of March 2026, with links to official UK sources.
+Trans people in the UK are protected by several important laws. This page provides a clear overview of your rights, with links to official UK sources.
 
 ---
 
