@@ -52,9 +52,3 @@ TransGuide UK is here to help you find clarity, confidence, and trustworthy info
 The information on this page is for general guidance and may not reflect the most current laws, NHS processes, or organisational policies. Please verify details with official sources or seek professional advice before making decisions.
 
 External links are provided for convenience; no responsibility is accepted for their content.
-
-
-
-
-
-
