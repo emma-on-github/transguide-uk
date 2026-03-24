@@ -112,7 +112,7 @@ If you’re unsure which service to contact, NHS 111 can help guide you to the r
 
 ---
 
-The information on this page is intended for general guidance and may not reflect the most current laws, NHS processes, or organisational policies. Please check official sources or seek professional support before making decisions.
+The information on this page is for general guidance and may not reflect the most current laws, NHS processes, or organisational policies. Please verify details with official sources or seek professional advice before making decisions.
 
-External links are provided for convenience; I am not responsible for their content.
+External links are provided for convenience; no responsibility is accepted for their content.
 
