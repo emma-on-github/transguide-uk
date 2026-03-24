@@ -44,9 +44,6 @@ This site is maintained independently (by [Emma Hicks](https://www.linkedin.com/
 
 ### Disclaimer
 
-The information on this website is provided for general guidance only. It is not legal advice, medical advice, or a substitute for professional support. While I aim to keep all content accurate and up to date, laws, NHS processes, and organisational policies can change. Always check official sources or speak to a qualified professional before making decisions based on this information.
+The information on this website is for general guidance only and does not constitute legal, medical, or professional advice. Although efforts are made to ensure accuracy, laws, NHS processes, and organisational policies may change. Users should verify information with official sources or seek professional advice before acting on any content provided.
 
-This site may link to external organisations; I am not responsible for the content of those websites.
-
-
-
+External links are included for convenience; no responsibility is accepted for their content.
