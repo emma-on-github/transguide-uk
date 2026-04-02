@@ -42,8 +42,11 @@ This site is maintained independently (by [Emma Hicks](https://www.linkedin.com/
 
 ---
 
-### Disclaimer
+## Disclaimer
 
 The information on this website is for general guidance only and does not constitute legal, medical, or professional advice. Although efforts are made to ensure accuracy, laws, NHS processes, and organisational policies may change. Users should verify information with official sources or seek professional advice before acting on any content provided.
 
+This website is an independent project and is **not affiliated with, endorsed by, or connected to “The Trans Guide” (transguide.uk) or any other organisation with a similar name**. Any similarity in naming is coincidental, and all content on this site is original unless otherwise stated.
+
 External links are included for convenience; no responsibility is accepted for their content.
+
