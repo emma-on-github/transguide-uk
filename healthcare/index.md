@@ -84,6 +84,9 @@ If your GP cannot provide shared care, you can still use private services indepe
 
 ---
 
-The information on this page is for general guidance and may not reflect the most current laws, NHS processes, or organisational policies. Please verify details with official sources or seek professional advice before making decisions.
+The information on this page is for general guidance only and may not reflect the most current laws, NHS processes, or organisational policies. Please verify details with official sources or seek professional advice before making decisions.
+
+This page is part of an independent project and is **not affiliated with, endorsed by, or connected to “The Trans Guide” (transguide.uk) or any organisation with a similar name**.
 
 External links are provided for convenience; no responsibility is accepted for their content.
+
