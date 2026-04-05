@@ -11,6 +11,52 @@ This page highlights recent developments affecting transgender rights, healthcar
 
 ---
 
+## April 2026
+
+### NHS England pauses new youth hormone therapy referrals
+NHS England has confirmed that **new referrals for gender‑affirming hormone therapy for under‑18s remain paused** following the Cass Review. Existing patients continue receiving treatment, but no new young people can begin hormone therapy through NHS services at this time.
+
+- [NHS England announcement](https://www.england.nhs.uk/)
+- [Cass Review information](https://cass.independent-review.uk/)
+
+---
+
+### Equality Act guidance review continues
+The UK government’s review of Equality Act guidance — specifically around how “sex” is defined in law — is ongoing. International human rights experts have urged the UK to ensure that any changes continue to protect transgender people and do not enable discrimination in single‑sex services or employment.
+
+- [Equality Act 2010 overview](https://www.legislation.gov.uk/ukpga/2010/15/contents)
+- [UN human rights experts’ statement](https://www.ohchr.org/)
+
+---
+
+### Legal recognition remains under debate
+Political discussions about redefining “sex” in law as “biological sex” continue, though **no legislative changes have been passed**. This debate affects how organisations interpret rights and protections for trans people and remains an area to monitor.
+
+- [Gender Recognition Act 2004](https://www.legislation.gov.uk/ukpga/2004/7/contents)
+
+---
+
+### TransActual releases *Trans Lives 2025* findings
+A major survey of over 4,000 UK trans people reports:
+- Increased barriers to healthcare  
+- High levels of discrimination  
+- Significant negative impact from hostile media coverage  
+
+The report highlights ongoing challenges faced by trans communities across the UK.
+
+- [TransActual UK](https://www.transactual.org.uk/)
+- [Trans Lives 2025 report page](https://www.transactual.org.uk/research)
+
+---
+
+### Positive visibility: Trans in the City Changemakers List
+The 2026 Changemakers List celebrates trans and non‑binary people making positive contributions across UK workplaces and communities. It offers a counterbalance to negative media narratives and highlights leadership within the community.
+
+- [Trans in the City](https://www.transinthecity.co.uk/)
+
+
+---
+
 ## March 2026
 
 ### NHS Gender Identity Services
