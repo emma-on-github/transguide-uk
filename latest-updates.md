@@ -11,6 +11,30 @@ This page highlights recent developments affecting transgender rights, healthcar
 
 ---
 
+## June 2026
+
+### Revised UK equality law guidance
+The UK government issued updated guidance on how organisations may apply sex‑based exceptions in single‑sex services. The guidance emphasises proportionality and non‑discrimination.  
+
+- [GOV.UK](https://www.gov.uk/government/publications/equality-act-2010-draft-code-of-practice-for-services-public-functions-and-associations-2026/equality-act-2010-draft-code-of-practice-for-services-public-functions-and-associations-2026)
+
+### EHRC draft code of practice released
+The Equality and Human Rights Commission published a draft code clarifying how single‑sex services should operate and when exclusions may be lawful. The draft has generated significant public debate.  
+
+- [Equality and Human Rights Commission](https://www.equalityhumanrights.com/media-centre/news/draft-services-code-practice-laid-parliament)
+
+### Hampstead Heath Ponds policy confirmed
+The City of London Corporation announced that the Hampstead Heath bathing ponds will continue with trans inclusive access arrangements following community consultation.
+
+- [City of London](https://news.cityoflondon.gov.uk/hampstead-heaths-bathing-ponds-to-remain-trans-inclusive-spaces-as-city-corporation-agrees-future-access-policy/#:~:text=It%20means%20that%20biological%20and,for%20a%20number%20of%20years.)
+
+### Institutions reviewing policies
+Schools, employers, and public bodies across the UK are reassessing their equality and inclusion policies in response to the updated government and EHRC guidance.  
+
+- [BBC](https://www.bbc.co.uk/news)
+
+---
+
 ## May 2026
 
 ### Government still delaying post ruling guidance on single sex spaces
