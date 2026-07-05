@@ -10,6 +10,24 @@ nav_order: 8
 This page highlights recent developments affecting transgender rights, healthcare, and legal processes in the UK.  It is updated manually based on official announcements and trusted organisations.
 
 ---
+## July 2026
+
+### London Trans+ Pride 2026
+London Trans+ Pride is scheduled for 25 July 2026, with the confirmed theme “Our Future, Our Fight.” Organisers expect a large turnout based on previous years, though official attendance figures and confirmed celebrity supporters for 2026 have not yet been published.
+
+- [Event announcement (Instagram)](https://www.instagram.com/londontranspride/)
+
+### School Inclusion Guidance (Draft)
+The Government’s draft Keeping Children Safe in Education (KCSIE) 2026 guidance proposes restrictions on social transition in schools, including limitations on pronoun use, facilities access, and recognition of gender identity. The guidance is still under consultation and not yet final. 
+
+- [Draft KCSIE 2026](https://consult.education.gov.uk/independent-education-and-school-safeguarding-division/keeping-children-safe-in-education-2026-revisions/)
+
+### UK Ranking on LGBTQ+ Rights
+ILGA Europe’s 2026 Rainbow Map places the UK at 22nd of 49 countries, continuing a decline from its former 1st place ranking in 2015.
+
+- [ILGA Europe Rainbow Map 2026](https://www.ilga-europe.org/rainbow-europe/)
+
+---
 
 ## June 2026
 
