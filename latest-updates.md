@@ -10,6 +10,34 @@ nav_order: 8
 This page highlights recent developments affecting transgender rights, healthcare, and legal processes in the UK.  It is updated manually based on official announcements and trusted organisations.
 
 ---
+## August 2026
+
+### EHRC Updated Code of Practice for Services Comes into Force
+The Equality and Human Rights Commission’s (EHRC) updated **Code of Practice on Services, Public Functions and Associations** officially takes effect as statutory guidance on **5 August 2026**. 
+
+* **Context:** The revised code follows a landmark Supreme Court ruling establishing that the definition of "sex" in the Equality Act 2010 refers strictly to biological sex. 
+* **Key Details:** The guidance clarifies that holding a Gender Recognition Certificate (GRC) does not alter a person's sex for the purposes of the Equality Act. Under the new code, service providers are legally permitted to restrict trans people's access to single-sex spaces (such as toilets, changing areas, or domestic abuse services) if it is deemed a "proportionate means of achieving a legitimate aim."
+* **Sector Impact:** Despite widespread cross-party calls for parliamentary scrutiny, the government enacted the guidance without a formal vote or debate. A wide range of civil society groups, including men's and boys' care charities, have formally requested additional clarity from the EHRC, noting that the new rules create highly contradictory obligations regarding non-discrimination.
+
+### Community & Advocacy Response
+* **"Know Your Rights" Response:** In response to the code's implementation, the advocacy group [TransActual](https://transactual.org.uk/blog/2026/07/15/ehrc-code-of-practice-to-come-into-effect-in-august/) has condemned the guidance as "unworkable" and announced a targeted community education campaign. This initiative aims to provide trans and non-binary individuals with clear information on navigating public spaces and identifying unlawful service exclusions.
+
+### High Court Clears Path for Children's Puberty Blockers Trial
+The High Court has rejected a legal challenge brought by campaigners aiming to halt a major clinical trial regarding the use of puberty-suppressing hormones for minors.
+
+* **The Pathways Trial:** Run by researchers at King’s College London, the trial will officially begin recruiting more than 220 children aged 11 to 16 from **1 August 2026**. Mr Justice Chamberlain threw out the judicial review application, ruling that the legal challenge lacked a realistic chance of success.
+* **Trial Protections:** Following a pause earlier this year to address regulatory feedback from the MHRA, the trial protocol has strict age limits (minimum age 11 for biological girls, 12 for biological boys). Participants will be monitored intensely by a multidisciplinary team after undergoing months of specialist psychological evaluation.
+* **Current Policy Context:** Routine NHS prescribing of puberty blockers for under-18s remains restricted outside of this specific clinical trial. 
+
+### Looking Ahead: Autumn 2026
+
+### Pre-Legislative Scrutiny for Conversion Practices Ban
+Public interest and legislative analysis will ramp up this autumn regarding the **Draft Conversion Practices Bill**, which was shared with Parliament for pre-legislative scrutiny. The bill proposes a definitive ban on abusive practices intended to change or suppress a person's sexual orientation or gender identity in England and Wales, introducing a maximum five-year prison sentence for severe violations.
+
+### Under-18 Hormone Therapy Framework
+Following a major public consultation that concluded earlier this summer, NHS England is expected to publish its permanent clinical commissioning policy regarding the prescription of gender-affirming hormones (estrogen and testosterone) to 16 and 17-year-olds later this autumn.
+
+---
 ## July 2026
 
 ### London Trans+ Pride 2026
