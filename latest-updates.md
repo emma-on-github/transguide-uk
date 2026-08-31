@@ -10,6 +10,37 @@ nav_order: 8
 This page highlights recent developments affecting transgender rights, healthcare, and legal processes in the UK.  It is updated manually based on official announcements and trusted organisations.
 
 ---
+
+## September 2026
+
+### School Inclusion Guidance Takes Effect
+The UK Government’s final Keeping Children Safe in Education (KCSIE) 2026 guidance officially comes into force for schools and colleges in England on 1 September 2026.
+
+- **Context:**  The updated framework requires schools to treat student requests for social transition (such as changes to pronouns, names, or uniforms) primarily through a safeguarding lens.
+
+- **Impact:**  Human rights groups, including ILGA-Europe, have criticised the guidance. They argue it lacks sufficient protections to ensure information-sharing is in the best interest of the child and relies on a rigid binary understanding of sex. 
+
+- [Ilga-Europe]( https://www.ilga-europe.org/news/uk-governments-final-kcsie-guidance-fails-to-protect-trans-non-binary-and-intersex-children-and-young-people/)
+
+### Girlguiding Transgender Membership Policy Deadline
+A major policy change within Girlguiding UK takes full effect this month, requiring all current transgender girls and young women to leave the organisation by 6 September 2026. 
+
+- **Details:** Following expert legal advice regarding the Supreme Court's biological sex ruling, membership and single-sex volunteer roles are now strictly restricted to cisgender girls and women.
+
+- **Scope:** The policy only affects trans girls and trans women. Trans boys, trans men, and non-binary individuals assigned female at birth remain eligible for membership.
+
+- [The Guardian](https://www.theguardian.com/society/2026/mar/24/girlguiding-trans-girls-women-leave)
+
+### Legal Challenges Against EHRC Services Code Mount
+Following the implementation of the Equality and Human Rights Commission's (EHRC) updated Code of Practice last month, formal legal opposition has intensified.
+
+- **Legal Action:** The Good Law Project has officially backed a legal challenge against the statutory guidance. They argue it incites unlawful discrimination and ignores prior High Court rulings that protect inclusive facility access. 
+
+- **Human Rights Concerns:** UN human rights experts have also raised concerns, warning the UK government that the revised interpretation risks violating international covenants regarding non-discrimination. 
+
+- [Jurist News]( https://www.jurist.org/news/2026/08/un-experts-warn-revised-uk-equality-act-puts-transgender-people-at-risk/)
+
+---
 ## August 2026
 
 ### EHRC Updated Code of Practice for Services Comes into Force
