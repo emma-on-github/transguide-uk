@@ -11,6 +11,24 @@ This page highlights recent developments affecting transgender rights, healthcar
 
 ---
 
+## October 2026
+
+### Healthcare & Service Access
+Adult NHS Referral System Overhaul: Under NHS England's updated operational structure, a centralized adult referral system is expected to go live.  Adults seeking a referral to gender identity services must be processed through this new national system, replacing the previous method of direct clinician referrals to individual clinics. 
+
+[TransActual Gender Clinics Directory](https://transactual.org.uk/medical-transition/gender-dysphoria-clinics/ "TransActual Gender Clinics Directory")
+
+Ongoing Scrutiny of Single-Sex Wards: Debate has intensified regarding the delay of NHS England's national policy on single-sex accommodation, which was slated for revision following the 2025 Supreme Court legal definition of sex.  Regional hospital trusts continue to operate under mixed historical rules regarding trans patient placement, as highlighted by a BBC News Investigation into NHS Ward Policies.
+
+[BBC News](https://www.bbc.co.uk/news/articles/cqzjzwr1mm27o "BBC News Investigation into NHS Ward Policies")
+
+### Legal Guidance
+CPS Guidance Updates: The Crown Prosecution Service (CPS) has formally updated its briefing instructions for prosecutors and barristers.  The legal update clarifies that in relevant court cases, transgender suspects may be referred to by their birth sex or biological sex in scenarios where it is legally necessary or deemed relevant to the proceedings. 
+
+[The Telegraph](https://www.telegraph.co.uk/news/2026/09/29/trans-rape-suspects-can-be-called-men-prosecutors-told/ "The Telegraph's Report on CPS Guidance")
+
+---
+
 ## September 2026
 
 ### School Inclusion Guidance Takes Effect
